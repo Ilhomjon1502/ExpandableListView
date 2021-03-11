@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework42.2</string>
+    <string name="mobiles">Mobiles</string>
+    <string name="leptops">Laptops</string>
+    <string name="com_accses">Computer Accessories</string>
+    <string name="home_enter">Home Entertainment</string>
+    <string name="tvs_by_brand">TVs by brand</string>
+    <string name="kitchen">Kitchen Appliances</string>
+</resources>
